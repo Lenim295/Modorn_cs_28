@@ -85,6 +85,7 @@ def show_menu():
   print("8) Max of Three")
   print("9) Discount")
   print("10) BMI")
+  print("0) ออกจากโปรแกรม")
 
 def main():
   while True:
@@ -118,3 +119,4 @@ def main():
 
 
 main()
+
