@@ -110,7 +110,11 @@ def main():
         DISCOUNT()
     elif(operate=="10"):
         BMI()
+    elif(operate=="0"):
+        print("ออกจากรายการ")
+        break
     else:
         print("Not Found")
+
 
 main()
